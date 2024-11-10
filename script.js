@@ -1,3 +1,4 @@
+alert("This site is developed by Saket Tiwari with ❤️...");
 let input = document.getElementById('inputBox');
 
 let buttons = document.querySelectorAll('button');
